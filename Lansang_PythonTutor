@@ -301,25 +301,25 @@ Data types describe what kind of value a variable stores.
             "A String stores text, such as words, sentences, "
             "letters, and symbols. Strings are written inside "
             "single or double quotation marks.",
-            'name = "Gian"\ngreeting = "Hello, World!"'
+            'name = "Gian"\n greeting = "Hello, World!"'
         ),
         2: (
             "INTEGER",
             "An Integer stores whole numbers without decimal "
             "points. It can be positive, negative, or zero.",
-            "age = 18\nscore = -80"
+            "age = 18\n score = -80"
         ),
         3: (
             "FLOAT",
             "A Float stores numbers that contain decimal points. "
             "It is useful for measurements, prices, and calculations.",
-            "price = 999.99\ndistance = 2.5"
+            "price = 999.99\n distance = 2.5"
         ),
         4: (
             "BOOLEAN",
             "A Boolean stores one of two values: True or False. "
             "It is often used when a program makes decisions.",
-            "is_student = True\nis_finished = False"
+            "is_student = True\n is_finished = False"
         )
     }
 
@@ -578,7 +578,7 @@ Repeats code for a specific sequence or number of times.
 
 Example:
     for number in range(4):
-        print("I love fries")
+        print("I luv fwies")
 
 WHILE LOOP:
 Repeats code as long as a condition remains True.
